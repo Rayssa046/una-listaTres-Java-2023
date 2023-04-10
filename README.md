@@ -1,3 +1,3 @@
 # una-listaTres-Java-2023
 
-hoy nosotros vamonos editar lo gitrub ariba :D
+O nosso projeto se trata da alfabetização de progrmação, utilizamos o netbeans para a Atividade de Estruturas Sequênciais.
